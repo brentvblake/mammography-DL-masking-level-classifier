@@ -1,0 +1,3 @@
+# ignore train data in this gitignore
+
+data/train/
