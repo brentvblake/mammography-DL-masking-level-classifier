@@ -1,0 +1,8 @@
+# ignore train data in this gitignore
+
+data/train/
+data/processed/
+
+#ignore the vgg16 model
+
+models/modelVGG16.h5
